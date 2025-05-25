@@ -1,0 +1,20 @@
+.header{
+    text-align: center;
+    color: white;
+    background-color: #eecfae;
+    border: 10px solid rgb(201, 169, 135);
+}
+.onosato-image{
+    padding: 20px;
+    height: 100vh;
+}
+table.Onosato{
+    border: 2px solid black;
+    width: 25%;
+    text-align: left;
+}
+
+
+td{
+    font-size: 20px;
+}
